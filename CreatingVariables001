@@ -1,0 +1,15 @@
+package repl01CreatingVariables;
+
+public class CreatingVariables001 {
+
+   // Create two boolean variables called isTrue and isFalse respectively.
+    //Assign the true to isTrue and false to isFalse.
+    //Print the value of each variable per line.  
+
+public static void main (String[] args){
+	boolean isTrue = true;
+  boolean isFalse = false;
+	System.out.println(isTrue);
+	System.out.println(isFalse);
+}
+}
